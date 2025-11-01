@@ -10,7 +10,7 @@
 #include <physical_layouts.dtsi>
 
 / {
-	model = "cornholius, rev_a";
+	model = "Cornholius";
 	compatible = "cornholius,rev_a";
 
 	chosen {
