@@ -62,7 +62,7 @@
 
     layout_cornholius_6col: layout_cornholius_6col {
         compatible = "zmk,physical-layout";
-        display-name = "Default";
+        display-name = "6col";
 
         transform = <&cornholius_transform>;
 
@@ -120,7 +120,7 @@
 
 	layout_cornholius_5col: layout_cornholius_5col {
         compatible = "zmk,physical-layout";
-        display-name = "Default";
+        display-name = "5col";
 
         transform = <&cornholius_transform>;
 
